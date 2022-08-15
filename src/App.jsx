@@ -1,8 +1,8 @@
-import { useState } from 'react'
+import Review from './Review'
 import './App.css'
 
 const App = () => {
-  return [<div>Hello React!</div>]
+  return <h2>reviews project setup</h2>
 }
 
 export default App
